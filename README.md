@@ -6,3 +6,4 @@ Course Video: [MIT微分方程与MATLAB](https://www.bilibili.com/video/BV17s411
 
 Reference Material : [学渣的笔记流—GS的线性代数世界](https://www.zhihu.com/column/douTintin14)
 
+I do not finish the fourth three exercises since I use MATLAB R2020b and it do not have the algorithm ``ode1`` ``ode2`` ``ode4`` and ``orderx``. But I still take the lecture notes.
